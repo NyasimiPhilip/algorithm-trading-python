@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Algorithmic Trading in Python</title>
-</head>
 <body>
   <h1>Algorithmic Trading in Python</h1>
   
