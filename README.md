@@ -6,9 +6,7 @@
 <body>
   <h1>Algorithmic Trading in Python</h1>
   
-  <h2>This repository</h2>
-  <p>[Insert repository description]</p>
-  
+ 
   <h2>Course Outline</h2>
   
   <h3>Section 1: Algorithmic Trading Fundamentals</h3>
